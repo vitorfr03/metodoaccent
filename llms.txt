@@ -1,0 +1,13 @@
+name: Método Accent
+url: https://metodoaccent.net.br/
+language: pt-BR
+type: course
+
+description: Curso de inglês online com acesso vitalício, do básico ao avançado.
+
+creator: Igor Amaral
+
+price: 27-67 BRL
+access: lifetime
+
+keywords: curso de ingles, aprender ingles online, ingles do zero, curso de ingles barato
